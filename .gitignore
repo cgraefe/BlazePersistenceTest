@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings
+.includepath
+target
+*_.java
+*.iml
+.idea/
+.vscode/
+
+/logs
+.DS_Store
+
+/target
+
